@@ -7,10 +7,11 @@ npm i ejs
 
 #### Live Project Link
 
-| Project Name| Live Projets Link| Details|| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Personal Portfilio | 🤗[Live Demo](https://sujandev.com/)🤖| This is my Project |
-| I2V-14B-720P | 🤗 [Huggingface](https://huggingface.co/) 🤖 [ModelScope](https://www.modelscope.cn) | Supports 720P |
-| I2V-14B-480P | 🤗 [Huggingface](https://huggingface.co/) 🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-I2V-14B-480P) | Supports 480P |
-| T2V-1.3B | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B) 🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-T2V-1.3B) | Supports 480P |
+| Project Name       | Live Projets Link                                                                                                                        | Details            |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Personal Portfilio | 🤗[Live](https://sujandev.com/)🤖                                                                                                        | This is my Project |
+| I2V-14B-720P       | 🤗 [Huggingface](https://huggingface.co/) 🤖 [ModelScope](https://www.modelscope.cn)                                                     | Supports 720P      |
+| I2V-14B-480P       | 🤗 [Huggingface](https://huggingface.co/) 🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-I2V-14B-480P)                   | Supports 480P      |
+| T2V-1.3B           | 🤗 [Huggingface](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B) 🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-T2V-1.3B) | Supports 480P      |
 
 > 💡Note: The 1.3B model is capable of generating videos at 720P resolution. However, due to limited training at this resolution, the results are generally less stable compared to 480P.
