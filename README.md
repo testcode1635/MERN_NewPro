@@ -10,8 +10,8 @@ npm i ejs
 | Project Name       | Live Projets Link                                                | Details            |
 | ------------------ | ---------------------------------------------------------------- | ------------------ |
 | Personal Portfilio | 🤗[Live](https://sujandev.com/)🤖                                | This is my Project |
-| Ecommers           | 🤗 [Live](https://huggingface.co/) 🤖 [Test](https://google.com) | Details text here  |
+| E-Commers          | 🤗 [Live](https://huggingface.co/) 🤖 [Test](https://google.com) | Details text here  |
 
 | News Blog | 🤗 [Test](https://youtube) 🤖 [ModelScope](https://www.modelscope.cn/models/Wan-AI/Wan2.1-T2V-1.3B) | Details text here |
 
-> 💡Note: The 1.3B model is capable of generating videos at 720P resolution.
+> 💡Note: The 1.3B model is capable of generating videos at 720P resolution. However, due to limited training at this resolution, the results are generally less stable compared to 480P.
